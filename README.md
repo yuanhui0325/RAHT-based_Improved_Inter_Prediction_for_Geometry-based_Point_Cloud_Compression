@@ -1,6 +1,6 @@
 # Inter Prediction Optimization Method for RAHT in MPEG G-PCC
 
-This repository provides the source code used in the research
+This repository provides the source code used in the paper
 **Inter Prediction Optimization Method for RAHT in MPEG G-PCC**.
 
 ## Repository Structure
