@@ -5,8 +5,6 @@ This repository provides the source code used in the paper
 
 ## Repository Structure
 
-This repository provides the source code and datasets used in the paper RATH-based Improved Inter Prediction for Geometry-based Point Cloud Compression
-
 | Path | Description |
 | --- | --- |
 | `mpeg-pcc-tmc13-release-v28.0-rc2/` | The original TMC13 v28.0 reference software used as the baseline. |
